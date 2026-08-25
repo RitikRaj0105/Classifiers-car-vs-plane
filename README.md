@@ -18,13 +18,7 @@ Frontend: HTML, CSS, JavaScript (React)
 
 Machine Learning: TensorFlow/Keras, OpenCV
 
-Deployment: AWS/GCP/Azure, Docker
 
-Installation
-
-Prerequisites
-
-Python 3.8+
 
 TensorFlow/Keras
 
